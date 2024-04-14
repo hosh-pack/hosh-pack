@@ -1,3 +1,1 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;Second+line+of+text)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋;My+name+is+Andreas;I+am+a+Full-Stack-Developer+🥞;Feel+free+to+look+around+🙂)](https://git.io/typing-svg)
